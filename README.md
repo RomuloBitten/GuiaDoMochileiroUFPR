@@ -1,1 +1,1 @@
-# guia-do-mochileiro-UFPR
+# GuiaDoMochileiroUFPR
